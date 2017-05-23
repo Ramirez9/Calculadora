@@ -19,9 +19,9 @@ Pulse 5 para salir del progama
     opcion=input("Que número desea: ")
     
     if opcion == 1:
-        print sumar(a=input("Introduzca el primer numero: "), b=input("Introduzca el segundo numero: "))
+        print sumar(a=input("Introduzca el primer numerito: "), b=input("Introduzca el segundo numerito: "))
     elif opcion == 2:
-        print restar(a=input("Introduzca el primer numero: "), b=input("Introduzca el segundo numero: "))
+        print restar(a=input("Introduzca el primer numerito: "), b=input("Introduzca el segundo numerito: "))
  
     elif opcion == 3:
         print multiplicar(a=input("Introduzca el primer numero: "), b=input("Introduzca el segundo numero: "))
