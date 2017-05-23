@@ -1,6 +1,7 @@
+#UTF-8
 '''
-d) Crea un m骴ulo nuevo:  
-A continuaci髇 importa el m骴ulo del ejercicio anterior en el siguiente c骴igo, de forma que las instrucciones siguientes se ejecuten sin producir errores:
+d) Crea un m贸dulo nuevo:  
+A continuaci贸n importa el m贸dulo del ejercicio anterior en el siguiente c贸digo, de forma que las instrucciones siguientes se ejecuten sin producir errores:
 a, b = 13, 0
 print 'Operandos =', a, b
 print 'sumar = ', sumar (a, b)
@@ -8,14 +9,14 @@ print 'restar = ', restar (a, b)
 print 'multiplicar = ', multiplicar (a, b)
 print 'dividir = ', dividir (a, b)
 
-@author: Francisco Ram韗ez
+@author: Francisco Ram铆rez
 '''
 
 from op_bas import *
 
-a, b = 13, 0
-print 'Operandos =', a, b
-print 'sumar = ', sumar (a, b)
-print 'restar = ', restar (a, b)
-print 'multiplicar = ', multiplicar (a, b)
-print 'dividir = ', dividir (a, b)
+asdfgh, b = 13, 0
+print 'Operandos =', asdfgh, b
+print 'sumar = ', sumar (asdfgh, b)
+print 'restar = ', restar (asdfgh, b)
+print 'multiplicar = ', multiplicar (asdfgh, b)
+print 'dividir = ', dividir (asdfgh, b)
