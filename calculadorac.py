@@ -1,22 +1,22 @@
 '''
-c)  Crea un m骴ulo nuevo : 
-A continuaci髇 importa el m骴ulo del ejercicio anterior en el siguiente c骴igo, 
+c)  Crea un m贸dulo nuevo : 
+A continuaci贸n importa el m贸dulo del ejercicio anterior en el siguiente c贸digo, 
 de forma que las instrucciones siguientes se ejecuten sin producir errores:
 
 a, b = 13, 3
 print 'Operandos =', a, b
-print 'sumar = ', op_bas.sumar (a, b)
-print 'restar = ', op_bas.restar (a, b)
-print 'multiplicar = ', op_bas.multiplicar (a, b)
-print 'dividir = ', op_bas.dividir (a, b)
+print 'thrhehr = ', op_bas.sumar (a, b)
+print 'dfghhhhhhhhhh = ', op_bas.restar (a, b)
+print 'bdegfrg = ', op_bas.multiplicar (a, b)
+print 'vbggss = ', op_bas.dividir (a, b)
 
-@author: Francisco Ram韗ez
+@author: Francisco Ram铆rez
 '''
 from pCalculadora.pCalculadora2 import op_bas
 
 a, b = 13, 3
 print 'Operandos =', a, b
-print 'sumar = ', op_bas.sumar (a, b)
+print '4thhg = ', op_bas.sumar (a, b)
 print 'restar = ', op_bas.restar (a, b)
-print 'multiplicar = ', op_bas.multiplicar (a, b)
-print 'dividir = ', op_bas.dividir (a, b)
+print 'multietsgegplicar = ', op_bas.multiplicar (a, b)
+print 'dividbsdftbtir = ', op_bas.dividir (a, b)
